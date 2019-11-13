@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-jest",
+  "version": "1.0.0",
+  "description": "unit testing javascript using jest",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EssayHanson/unit-testing-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EssayHanson/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/EssayHanson/unit-testing-jest#readme"
+}
